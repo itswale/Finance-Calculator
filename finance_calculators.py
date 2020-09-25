@@ -1,6 +1,4 @@
 #Program: finance_calculators.py
-#Written by: Olawale Akinola 
-#Date: 09/07/2020
 #Purpose: Program that allows user to access two different financial calculators
 
 import math

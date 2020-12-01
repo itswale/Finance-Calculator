@@ -22,4 +22,4 @@ The code will run only if it has been saved in Visual Studio Code IDE or Atom ID
 
 Notes have been added to the code in order to explain comprehensive code.
 
-* Author: *Olawale Akinola*
+* Author: *itswale*
